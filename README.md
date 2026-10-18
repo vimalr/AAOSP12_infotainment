@@ -56,3 +56,4 @@ The `design-assets/themes/` directory contains nine theme concept PNGs:
 These PNGs are design references, not runtime-selectable themes. The current Java UI must be updated to implement theme switching and recreate the chosen design with native Android views.
 # AAOSP12_infotainment
 # AAOSP12_infotainment
+# AAOSP12_infotainment
