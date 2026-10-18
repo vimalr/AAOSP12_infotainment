@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'in.horsewaves.automotive'
+    compileSdk 32
+    defaultConfig {
+        applicationId 'in.horsewaves.automotive'
+        minSdk 28
+        targetSdk 32
+        versionCode 1
+        versionName '1.0.0'
+    }
+}
